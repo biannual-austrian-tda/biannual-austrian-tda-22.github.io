@@ -4,7 +4,8 @@ layout: default
 
 # Overview
 
-| **Date** | Aug. 17 + Aug. 18, 2022 |
+| **Date**     | Aug. 17 + Aug. 18, 2022 |
+| **Location** | Jakob-Haringer Str. 2, A-5020 Salzburg |
 
 # Organizer(s)
 
