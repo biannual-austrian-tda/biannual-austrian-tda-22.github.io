@@ -15,6 +15,14 @@ layout: default
 
 # Location
 
-Our meeting will be held in **Seminarraum I** (first floor, air-conditioned) which is located in the large concrete building next to the *Computer Science/Artificial Intelligence and Human Interfaces building*. You can enter this building via the automatic glass doors and then take the stairs to the first floor. 
+Our meeting will be held in **Seminarraum I** (first floor, air-conditioned) which is located in the large concrete building next to the *Computer Science/Artificial Intelligence and Human Interfaces building*. You can enter this building via the automatic glass doors (see image below) and then take the stairs to the first floor. 
 
-<img src="/assets/images/building.jpg" alt="Location" height="250px" />
+<img src="/assets/images/building.jpg" alt="Location" height="300px" />
+
+## Arriving by train
+
+The meeting location is a 10 min walk away from the main train station. In case you arrive by car, please let me (Roland Kwitt) know in advance (as we do have a parking lot but it's mandatory to keep track of who uses it).
+
+# Contact
+
+In case of any problems, etc., feel free to contact me (Roland Kwitt, roland.kwitt@plus.ac.at).

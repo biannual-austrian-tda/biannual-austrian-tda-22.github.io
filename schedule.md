@@ -20,7 +20,15 @@ in Central European Time (CET) in a 24h format.
 
 ## Aug. 187, 2022
 
-tbd.
+| **Time (CET)**                                            | **Event**        |    
+| <span style="font-family: monospace;">09:00--09:45</span> | Talk 4           |    
+| <span style="font-family: monospace;">09:45--10:30</span> | Talk 5           |    
+| <span style="font-family: monospace;">10:30--10:45</span> | *Coffee break*   |    
+| <span style="font-family: monospace;">10:45--11:30</span> | Talk 6           |    
+| <span style="font-family: monospace;">12:00--13:30</span>  | Lunch (Catering) |    
+| <span style="font-family: monospace;">13:30--14:15</span>  | Talk 7           |    
+| <span style="font-family: monospace;">14:15--15:00</span>  | Talk 8           |    
+
 
 # Coffee breaks
 
