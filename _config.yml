@@ -1,0 +1,20 @@
+title: Biannual Austrian TDA Meeting
+description: Salzburg, Austria
+
+timezone: Europe/Zurich
+
+navigation:
+  Home: "/"
+  Schedule: "/schedule"
+  FAQ: "/faq"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
