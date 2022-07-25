@@ -4,16 +4,8 @@ layout: default
 
 # Schedule
 
-This is the preliminary schedule of the workshop. All slots are provided
-in Central European Time (CET) and Eastern Standard Time (EST) using
-a 24h format. Use [this time zone converter](https://www.thetimezoneconverter.com) to convert
-these times to your local time zone.
-
-The poster sessions and discussions will be *live*. Poster sessions
-take place in the [Gather.Town instance of the workshop](https://neurips.gather.town/app/EfqcVjt6CmhKKeu0/TDA%20and%20Beyond%20@%20NeurIPS).
-Each poster listed for a specific session will have at least one of the
-authors available to answer any questions of participants. See below for
-a detailed breakdown of poster sessions.
+This is the preliminary schedule for our meeting. All slots are provided
+in Central European Time (CET) in a 24h format. 
 
 | **Time (CET)**                                            |  **Time (EST)**                                            | **Event**                   |
 | <span style="font-family: monospace;">08:00--08:15</span> |  <span style="font-family: monospace;">02:00--02:15</span> | Introduction                |
