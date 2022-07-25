@@ -16,3 +16,5 @@ layout: default
 # Location
 
 Our meeting will be held in **Seminarraum I** (first floor, air-conditioned) which is located in the large concrete building next to the *Computer Science/Artificial Intelligence and Human Interfaces building*. You can enter this building via the automatic glass doors and then take the stairs to the first floor. 
+
+<img src="/assets/images/building.jpg" alt="Location" height="250px" />
