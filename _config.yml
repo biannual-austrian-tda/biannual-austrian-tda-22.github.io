@@ -6,7 +6,6 @@ timezone: Europe/Zurich
 navigation:
   Home: "/"
   Schedule: "/schedule"
-  FAQ: "/faq"
 
 markdown: kramdown
 

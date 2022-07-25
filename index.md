@@ -21,7 +21,9 @@ Our meeting will be held in **Seminarraum I** (first floor, air-conditioned) whi
 
 ## Arriving by train
 
-The meeting location is a 10 min walk away from the main train station. In case you arrive by car, please let me (Roland Kwitt) know in advance (as we do have a parking lot but it's mandatory to keep track of who uses it).
+The meeting location is a **10 min walk** away from the main train station. In case you want to take the 
+bus, hop onto line 6 and get off at Jakob-Haringer Str. 2 (you should already see the building).
+In case you arrive by car, please let me (Roland Kwitt) know in advance. We do have a parking lot, but it's mandatory to keep track of who uses it and we will have to coordinate that it's open when you arrive.
 
 # Contact
 
