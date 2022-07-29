@@ -19,7 +19,7 @@ in Central European Time (CET) in a 24h format. Each talk should be around
 | <span style="font-family: monospace;">19:00--open</span>  | *Dinner*          |    
 
 
-## Aug. 187, 2022
+## Aug. 18, 2022
 
 | **Time (CET)**                                            | **Event**        |    
 | <span style="font-family: monospace;">09:00--09:45</span> | Talk 4           |    
