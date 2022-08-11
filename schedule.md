@@ -37,9 +37,10 @@ Coffee and drinks will be provided during breaks.
 
 # Dinner information (for Aug. 17, 2022)
 
-We are currently figuring out the dinner location. Most likely in the inner-city. 
-Stay tuned!
+We have a 7pm dinner reservation at **fuxn**, see [here](https://fuxn.at/).
+
 
 # Lunch information (on Aug. 18, 2022)
 
-We will have catering provided to us for lunch on Aug. 18, 2022 (including vegan options).
+We will have catering provided to us for lunch on Aug. 18, 2022 (including vegan options). 
+Catering will also include coffee and drinks on both days.
