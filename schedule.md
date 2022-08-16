@@ -30,6 +30,16 @@ in Central European Time (CET) in a 24h format. Each talk should be around
 | <span style="font-family: monospace;">13:30--14:15</span>  | Talk 7           |    
 | <span style="font-family: monospace;">14:15--15:00</span>  | Talk 8           |    
 
+## List of talks
+
+- AI-driven industrial automation and TDA (Huber group)
+- Singular spaces and data (Rieck group)
+- Towards a topological/geometrical understanding of generalization in deep networks (Kwitt group)
+- Topologically densified distributions (Kwitt group)
+- Defining persistent homology for infinite periodic point sets (Edelsbrunner group)
+- Discrete microlocal Morse theory (Edelsbrunner group)
+- Matrix reduction and sparsity (Kerber group)
+- Persistent sheaf cohomology (Kerber group)
 
 # Coffee breaks
 
@@ -42,5 +52,4 @@ We have a 7pm dinner reservation at **fuxn**, see [here](https://fuxn.at/).
 
 # Lunch information (on Aug. 18, 2022)
 
-We will have catering provided to us for lunch on Aug. 18, 2022 (including vegan options). 
-Catering will also include coffee and drinks on both days.
+We will have catering provided to us for lunch on Aug. 18, 2022 (including vegan options). Catering will also include coffee and drinks on both days.
